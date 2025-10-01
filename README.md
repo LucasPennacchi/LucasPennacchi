@@ -1,16 +1,64 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Hideki Okido! 👋
 
-<!--
-**LucasPennacchi/LucasPennacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/LucasPennacchi">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasPennacchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/LucasPennacchi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPennacchi&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mim
+
+Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de soluções criativas. Atualmente, estou em busca da minha primeira oportunidade profissional para aplicar meus conhecimentos e aprender com equipes experientes.
+
+- 🎓 Foco meus estudos em **Java, Python, Desenvolvimento Web e de Jogos**.
+- 🚀 Gosto de transformar ideias em realidade, criando projetos pessoais como bots para Discord, pequenos jogos e outras aplicações que me desafiam.
+- 🎮 Nas horas vagas, meus hobbies são jogar, programar e explorar novas tecnologias.
+- 🌱 Estou sempre aberto a aprender e colaborar em projetos inovadores.
+
+---
+
+### 🛠️ Minhas Habilidades (Tech Stack)
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  </a>
+  <a href="https://www.yoyogames.com/en/gamemaker" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gamemaker/gamemaker-original.svg" alt="gamemaker" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Projeto em Destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| **[DiscordBot-Minigames](https://github.com/LucasPennacchi/DiscordBot-Minigames)** | Um bot para Discord que desenvolvi utilizando **Java** e **JPA (Hibernate)**. Ele permite que os usuários interajam e joguem minigames diretamente no servidor, sendo um ótimo projeto para aplicar conceitos de persistência de dados e lógica de programação orientada a objetos. |
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-okido-45361a262/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>
