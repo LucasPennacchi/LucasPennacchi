@@ -9,6 +9,9 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasPennacchi.LucasPennacchi" alt="visitor badge"/>
+</p>
 ---
 
 ### 👨‍💻 Sobre Mim
@@ -61,13 +64,19 @@ Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Destaques
 
 | Projeto | Descrição |
 | --- | --- |
 | **[DiscordBot-Personagem](https://github.com/LucasPennacchi/DiscordBotPersonagem)** | Um bot para Discord que desenvolvi utilizando **Java** e **JDBC (Persistance)**. Ele permite que os usuários interajam e controlem suas fichas de RPG diretamente no servidor, sendo um ótimo projeto para aplicar conceitos de banco de dados e lógica de programação orientada a objetos. |
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LucasPennacchi&theme=dracula&column=7"/>
+  </a>
+</p>
 ---
+
 
 ### 📫 Como me encontrar
 
@@ -75,4 +84,9 @@ Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de
   <a href="https://www.linkedin.com/in/lucas-okido-45361a262/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  
+  <a href="URL_DO_SEU_PERFIL_ITCHIO">
+    <img src="https://img.shields.io/badge/Itch.io-games-FA5C5C?style=for-the-badge&logo=itch.io" alt="itch.io"/>
+  </a>
 </p>
+
