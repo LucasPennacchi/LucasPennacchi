@@ -24,7 +24,7 @@ Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de
 
 ### 🛠️ Minhas Habilidades (Tech Stack)
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
