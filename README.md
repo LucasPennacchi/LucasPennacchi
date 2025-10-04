@@ -1,4 +1,5 @@
-# Olá, eu sou o Lucas Hideki Okido! 👋
+# Olá, eu sou o Lucas Hideki Okido! 👋 <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasPennacchi.LucasPennacchi" alt="visitor badge"/>
+
 
 <p align="center">
   <a href="https://github.com/LucasPennacchi">
@@ -9,9 +10,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasPennacchi.LucasPennacchi" alt="visitor badge"/>
-</p>
 ---
 
 ### 👨‍💻 Sobre Mim
@@ -75,6 +73,7 @@ Sou um estudante de tecnologia apaixonado por programação e desenvolvimento de
     <img src="https://github-profile-trophy.vercel.app/?username=LucasPennacchi&theme=dracula&column=7"/>
   </a>
 </p>
+
 ---
 
 
